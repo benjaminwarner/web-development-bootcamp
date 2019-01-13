@@ -1,0 +1,9 @@
+/* id selector */
+#specialItem {
+    background-color: red;
+}
+
+/* class selector */
+.highlight {
+    background-color: green;
+}
