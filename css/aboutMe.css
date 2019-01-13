@@ -1,5 +1,10 @@
 h1 {
-    color: red;
+    color: #B656F8;
+    /* border-color: rgb(56, 87, 188);
+    border-width: 5px;
+    border-style: solid; */
+
+    border: 1px solid rgb(56, 87, 188);
 }
 
 li {
@@ -7,5 +12,12 @@ li {
 }
 
 h4 {
-    color: blue;
+    background: rgb(255, 45, 90);
+}
+
+body {
+    background: pink;
+    /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUj-4WOIYwcevrnW0ZSNA6ewS7Pt8D-9wlV9Als5dq15_CYeZ1Q);
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
